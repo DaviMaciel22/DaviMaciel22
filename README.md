@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Davi, and I'm a Software Enginner student and have just started my technology studies</p>
+<p align="left">My name is Davi, aspiring Software Engineer passionate about technology and continuous learning.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: GitHub, UML, MySQL and Java<br>🎯 Goals: Enter the technology job market as a Software Enginner<br>🎲 Fun fact: I really like playing video games and reading on my free time</p>
+<p align="left">📚 I'm currently learning: GitHub, UML, MySQL and Java<br>🎯 Goals: Looking for my first opportunity as a Software Engineer Intern or Junior Developer.<br>🎲 Fun fact: I enjoy playing video games and exploring how technology is used in game development.</p>
 
 ###
 
@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJuNWsxa2l0Nng0bXRneTJpdHAyaXZ6anh3ZDI0Y2h1NzN3cmxqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OzhU5Yn4bTemY/giphy.gif"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN5cDZsZGVvMGxmajAwbjM5eXNpZmhnMjlzaXYzNTgxamhoZDV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OzhU5Yn4bTemY/giphy.gif"  />
 </div>
 
 ###
