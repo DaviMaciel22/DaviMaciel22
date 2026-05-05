@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Davi, aspiring Software Engineer passionate about technology and continuous learning.</p>
+<p align="left">"I'm Davi! An aspiring Software Engineer passionate about building technology and committed to lifelong learning."</p>
 
 ###
 
