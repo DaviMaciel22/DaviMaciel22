@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Davi! An aspiring Software Engineer passionate about building technology and committed to lifelong learning.</p>
+<p align="left">My name is Davi, and I'm a Software Enginner student and have just started my technology studies</p>
 
 ###
 
@@ -10,11 +10,37 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: GitHub, UML, MySQL and Java<br>🎯 Goals: Looking for my first opportunity as a Software Engineer Intern or Junior Developer.<br>🎲 Fun fact: I enjoy playing video games and exploring how technology is used in game development.</p>
+<p align="left">📚 I'm currently learning: GitHub, UML, MySQL and Java<br>🎯 Goals: Enter the technology job market as a Software Enginner<br>🎲 Fun fact: I really like playing video games and reading on my free time</p>
 
 ###
 
-<h2 align="left">I'm learning to code with</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/davi-maciel-1a164034b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZmYzZoenNwdW1vN3llNzlzc2N1MzNzd25zczk3b3FpZnlvbGxlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uWUYMWbYcBXW1IbPyT/giphy.gif"  />
+</div>
+
+###
+
+<h1 align="left">My Projects</h1>
+
+###
+
+- [Database CAC](https://github.com/VariableBee/seaborn-data-visualization)
+
+###
+
+<h1 align="left">🚀Skills</h1>
+
+###
+
+<h3 align="left">Progaming Languages:</h3>
 
 ###
 
@@ -23,13 +49,22 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<h3 align="left">Tools:</h3>
 
 ###
 
 <div align="left">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZmYzZoenNwdW1vN3llNzlzc2N1MzNzd25zczk3b3FpZnlvbGxlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uWUYMWbYcBXW1IbPyT/giphy.gif"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
+
