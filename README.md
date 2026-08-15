@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: GitHub, UML, MySQL and Java<br>🎯 Goals: Enter the technology job market as a Software Enginner<br>🎲 Fun fact: I really like playing video games and reading on my free time</p>
+<p align="left">📚 I'm currently learning: C, C# and UML<br>🎯 Goals: Enter the technology job market as a Software Enginner<br>🎲 Fun fact: I really like playing video games and reading on my free time</p>
 
 ###
 
